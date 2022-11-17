@@ -35,5 +35,4 @@ public class Car {
         this.series = series;
     }
 
-
 }
